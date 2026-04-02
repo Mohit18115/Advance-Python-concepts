@@ -1,0 +1,37 @@
+1. Merge Sort
+Merge Sort is a sorting algorithm used to arrange numbers in order.
+The main idea is divide and conquer.
+First, the list is divided into smaller parts until each part contains only one element. Then these small parts are merged back together in sorted order.
+
+2.Sliding Window
+
+Sliding Window is a technique used to process a part of an array or string at a time.
+Instead of checking every possible group of elements again and again, we keep a window of fixed size and move it step by step.
+
+3. Two Pointer Technique
+
+The Two Pointer technique uses two positions in an array to solve problems efficiently.
+Usually:
+One pointer starts from the beginning
+One pointer starts from the end
+
+4. Stack
+
+A Stack is a data structure that follows the rule:
+LIFO (Last In, First Out)
+The last element added to the stack is the first one removed.
+
+5. Binary Tree
+
+A Binary Tree is a hierarchical data structure where each node can have at most two children.
+
+6. Duplicate Detection
+Duplicate detection means checking whether a list contains repeated values.
+
+7. Longest Increasing Subsequence (LIS)
+
+The Longest Increasing Subsequence problem finds the longest sequence of numbers that increases continuously.
+
+8. Anagram
+
+Two words are called anagrams if they contain the same letters but in a different order.
